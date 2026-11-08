@@ -1,0 +1,2 @@
+# Multi_Browser_Opener
+Firefoxで見ているページを他のブラウザで開く拡張機能
